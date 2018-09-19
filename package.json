@@ -1,0 +1,15 @@
+{
+  "name": "biggatherer",
+  "version": "1.0.0",
+  "description": "Maygic Cards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gilbert Barajas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
